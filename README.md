@@ -2,7 +2,17 @@
 
 This is the official implementation of our work entitled as ```Learning Frequency-Adapted Vision Foundation Model for Domain Generalized Semantic Segmentation```, which has been accepted by ```NeurIPS 2024```.
 
-## Cite the proposed FADA
+## Environment Configuration
+
+## Training on the Source Domain
+
+to be updated soon.
+
+## Inference on the Unseen Target Domains
+
+to be updated soon.
+
+## Citation
 
 If you find this work is useful for your task please cite our work as follows:
 
@@ -15,4 +25,7 @@ If you find this work is useful for your task please cite our work as follows:
   year={2024}
 }
 ```
+
+## Acknowledgement
+
 
