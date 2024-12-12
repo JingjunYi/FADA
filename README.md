@@ -30,4 +30,7 @@ If you find this work is useful for your task please cite our work as follows:
 
 ## Acknowledgement
 
+Our implementation is primarily based on the following repositories, with significant influence from Rein. Thanks for their authors.
+* [MMSegmentation](https://github.com/open-mmlab/mmsegmentation)
+* [Rein](https://github.com/w1oves/Rein)
 
