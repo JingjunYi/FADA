@@ -8,11 +8,19 @@ Please refer to the ```requirements.txt``` file in this project.
 
 ## Training on the Source Domain
 
-to be updated soon.
+An command example to train the model when using ```CityScapes``` as the source domain is:
+
+```python tools/train.py configs/my/citys_rein_dinov2_mask2former_512x512_bs1x4.py --work-dir exps/exp0322```
+
+Please remember to change the file folder to your own.
 
 ## Inference on the Unseen Target Domains
 
-to be updated soon.
+An command example to infer the model when using ```CityScapes``` as the source domain is:
+
+```python tools/test.py configs/my/citys_rein_dinov2_mask2former_512x512_bs1x4.py exps/exp0429/iter_40000.pth --backbone checkpoints/dinov2_converted.pth```
+
+Please remember to change the file folder to your own, and also to specify the file folder of the target domain in the script.
 
 ## Citation
 
