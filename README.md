@@ -4,6 +4,8 @@ This is the official implementation of our work entitled as ```Learning Frequenc
 
 ## Environment Configuration
 
+Please refer to the ```requirements.txt``` file in this project.
+
 ## Training on the Source Domain
 
 to be updated soon.
